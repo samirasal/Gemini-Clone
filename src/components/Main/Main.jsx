@@ -7,7 +7,7 @@ const Main = () => {
     <div className="main">
       <div className="nav">
         <p>Gemini</p>
-        <img src={assets.user_icon} alt="" />
+        <img src={assets.user_icon2} alt="" />
       </div>
       <div className="main-container">
         <div className="greet">
